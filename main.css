@@ -1,0 +1,14 @@
+.card{
+    border-style: solid;
+    border-radius: 10pt;
+    margin-right: 15pt;
+    margin-left: 15pt;
+    margin: 10pt;
+    width: 200pt;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
